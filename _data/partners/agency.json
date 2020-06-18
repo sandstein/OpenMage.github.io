@@ -42,5 +42,14 @@
     "name": "Sansec BV",
     "url": "https://sansec.io/?openmage",
     "contributions": []
+  },
+    {
+      "name": "Sandstein Neue Medien GmbH",
+      "url": "https://www.sandstein.de/internetagentur.php",
+      "contributions": [
+          "Bug Reports",
+          "Modules Creator",
+          "Documentation"
+      ]
   }
 ]
